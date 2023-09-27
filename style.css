@@ -16,11 +16,10 @@ li {
 
 }
 nav ul li{
-    /* background-color: bisque; */
+    background-color: #222222;
     padding:10px;
     margin: 10px;
     
 
 }
-/* nav{
-    /* background-color: brown; */
+nav{background-color: #101010;}
